@@ -5,12 +5,12 @@
 A note taking application that allows the user to submit a note with a title and text content. Notes are saved into the application with unique ids and are able to be deleted.
 
 ## Table of Contents
-  - [Deployed Application](#Deployed application)
+  - [Application](#Application)
   - [Usage](#Usage)
   - [License](#License)
 
 
-## Deployed application
+## Application
 
 [Heroku Deployed Application](https://tranquil-castle-94562.herokuapp.com/)
 
