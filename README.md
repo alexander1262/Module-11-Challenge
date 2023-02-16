@@ -38,4 +38,4 @@ Notes are saved into the left side of the screen and appear with a red trash ico
 
 MIT
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
